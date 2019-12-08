@@ -1,3 +1,4 @@
 def plus_two(num)
-	puts sum(num + 2)
+	sum(|num| + 2)
+	puts sum 
 end
